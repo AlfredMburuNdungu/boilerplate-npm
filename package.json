@@ -1,7 +1,6 @@
 {
-	"author": "AlfredMburuNdungu",
-
 	"name": "fcc-learn-npm-package-json",
+	"author": "AlfredMburuNdungu",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
